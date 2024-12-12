@@ -1,5 +1,10 @@
 <h2> Hi there 👋 </h2>
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jookare.Jookare)
+![GitHub Followers](https://img.shields.io/github/followers/Jookare?label=Followers&style=social)
+
+
+
 - 📝 I'm currently working as a Junior Researcher in LUT University.
 - 🌱 My research focuses on Computer Vision and Artificial Intelligence.
 
