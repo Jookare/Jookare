@@ -14,20 +14,14 @@
   
 <h3> 🔍 On My Learning List </h3>
 
-<ul>
-  <li>
-    <a href="https://github.com/AnswerDotAI/fasthtml" title="FastHTML: A Python web framework">
-    <img src="https://fastht.ml/assets/logo.svg" alt="FastHTML" height="20px" width="80">
-    </a>: A new and promising Python-based web framework.
-  </li>
-
-  <li>
-    <a href="https://github.com/geohot/tinygrad" title="TinyGrad: Minimalistic deep learning framework">
-        <img src="https://github.com/tinygrad/tinygrad/blob/master/docs/logo_tiny_dark.svg"  alt="Tinygrad"  height="20px" width="80">
-    </a>: A minimalistic deep learning framework.
-  </li>
-</ul>
-<div></div>
+<div>
+ <a href="https://github.com/AnswerDotAI/fasthtml" title="FastHTML: A Python web framework">
+  <img src="https://fastht.ml/assets/logo.svg" alt="FastHTML" height="20px" width="80">
+ </a>
+ <a href="https://github.com/geohot/tinygrad" title="TinyGrad: Minimalistic deep learning framework">
+  <img src="https://github.com/tinygrad/tinygrad/blob/master/docs/logo_tiny_dark.svg"  alt="Tinygrad"  height="20px" width="80">
+ </a>
+</div>
   
 <p align="left">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Jookare&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Operating-Systems-LUT">
