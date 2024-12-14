@@ -10,7 +10,6 @@
 
 - **Programming**: Python, MATLAB, React, C++
 - **Tools**: PyTorch, Git, LaTeX, Jupyter Notebooks
-  **Other**
   
 <h3> 🔍 On My Learning List </h3>
 
