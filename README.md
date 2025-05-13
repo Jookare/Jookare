@@ -8,19 +8,34 @@
 
 <h3> 🛠 Skills </h3>
 
-- **Programming**: Python, MATLAB, React, C++
-- **Tools**: PyTorch, Git, LaTeX, Jupyter Notebooks
-  
-<h3> 🔍 On My Learning List </h3>
+- **Programming**: Python, MATLAB, React
+- **Tools**: PyTorch, Lightning, LaTeX, Jupyter
 
-<div>
- <a href="https://github.com/AnswerDotAI/fasthtml" title="FastHTML: A Python web framework">
-  <img src="https://fastht.ml/assets/logo.svg" alt="FastHTML" height="20px" width="80">
- </a>
- <a href="https://github.com/geohot/tinygrad" title="TinyGrad: Minimalistic deep learning framework">
-  <img src="https://github.com/tinygrad/tinygrad/blob/master/docs/logo_tiny_dark.svg"  alt="Tinygrad"  height="20px" width="80">
- </a>
+
+<h3> 🔍 Projects I am interested in </h3>
+
+
+<div style="display: flex; height: 40px; align-items: center;  margin-bottom: 10px;">
+  <img src="https://github.com/tinygrad/tinygrad/blob/master/docs/logo_tiny_dark.svg" alt="Tinygrad" height="40" width="40" style="margin-right: 8px;">
+  <a href="https://github.com/geohot/tinygrad" title="TinyGrad: Minimalistic deep learning framework">
+    Tinygrad
+  </a>
 </div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://fastht.ml/assets/logo.svg" alt="FastHTML" height="40" width="40" style="margin-right: 8px;">
+  <a href="https://github.com/AnswerDotAI/fasthtml" title="FastHTML: A Python web framework">
+    FastHTML
+  </a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://lf-lynx.tiktok-cdns.com/obj/lynx-artifacts-oss-sg/lynx-website/assets/lynx-light-logo.svg" alt="Lynxjs" height="40" width="40" style="margin-right: 8px;">
+  <a href="https://github.com/lynxlang/lynx" title="Lynxjs: A new native framework for mobile apps">
+    Lynxjs
+  </a>
+</div>
+
   
 <p align="left">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Jookare&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,html&exclude_repo=Operating-Systems-LUT">
