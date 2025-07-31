@@ -4,13 +4,11 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Jookare?label=Followers&style=social)
 
 - 📝 I'm currently working as a Junior Researcher in LUT University.
-- 🌱 My research focuses on Computer Vision and Artificial Intelligence.
+- 🌱 My research focuses on Fine-grained classification
 
 <h3> 🛠 Skills </h3>
 
 - **Programming**: Python, MATLAB, React
-- **Tools**: PyTorch, Lightning, LaTeX, Jupyter
-
 
 <h3> 🔍 Projects I am interested in </h3>
 
