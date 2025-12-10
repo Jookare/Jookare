@@ -27,13 +27,6 @@
   </a>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://lf-lynx.tiktok-cdns.com/obj/lynx-artifacts-oss-sg/lynx-website/assets/lynx-light-logo.svg" alt="Lynxjs" height="40" width="40" style="margin-right: 8px;">
-  <a href="https://github.com/lynxlang/lynx" title="Lynxjs: A new native framework for mobile apps">
-    Lynxjs
-  </a>
-</div>
-
 <!--
 **Jookare/Jookare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
